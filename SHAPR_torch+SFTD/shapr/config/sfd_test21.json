@@ -1,0 +1,12 @@
+{
+    "path": "../dataset_for_3D_reconstruction/",
+    "result_path": "../results/sfd_test21/",
+    "random_seed" : 0,
+    "batch_size": 3,
+    "epochs_SHAPR": 100,
+    "epochs_cSHAPR": 100,
+    "topo_lambda": 0,
+    "topo_interp": 16,
+    "sfd_lambda" : 0.06,
+    "sfd_epoch": 0
+}

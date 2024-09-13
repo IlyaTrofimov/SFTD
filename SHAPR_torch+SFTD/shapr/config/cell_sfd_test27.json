@@ -1,0 +1,12 @@
+{
+    "path": "../ShapeAE_datasets/3D cell culture/",
+    "result_path": "../results/cell_sfd_test27/",
+    "random_seed" : 0,
+    "batch_size": 3,
+    "epochs_SHAPR": 100,
+    "epochs_cSHAPR": 100,
+    "topo_lambda": 0,
+    "topo_interp": 16,
+    "sfd_lambda" : 0.125,
+    "sfd_epoch": 0
+}

@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "../ShapeAE_datasets/3D cell culture/obj"
+  },
+  "targets": [
+    {
+    "label": "Without $\\mathcal{L}_\\mathrm{T}$",
+    "path" : "../results/cell_sfd_test26/"
+    }
+  ],
+  "output": "/tmp/trofim_test.svg"
+}
