@@ -1,0 +1,9 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0   4464  2376 pts/0    Ss   Dec04   0:02 /bin/bash
+root          36  0.0  0.0 652488 239672 pts/0   Sl   Dec04  22:34 /home/anaconda/bin/python /home/anaconda/bin/jupyter-notebook --ip=0.0.0.0 --port 8897 --allow-root
+root         182  0.0  0.0 9198356 44616 ?       Ssl  Dec04   2:21 /SHAPR_torch/.venv_shapr/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kernel-eda484ab-dbb9-421a-8aad-f302e68ab1dc.json
+root      190213  0.0  0.1 9350704 540428 ?      Ssl  Dec19   0:23 /home/anaconda/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kernel-edab4319-ed95-4b57-9fc3-17db42f97161.json
+root     4136944  0.2  0.0 3973876 501540 ?      Ssl  12:32   0:05 /home/anaconda/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kernel-17af0616-8f18-4f09-aea6-4a440fdf4225.json
+root     4137958  1.7  0.0 3776208 91248 ?       Ssl  12:51   0:13 wandb-service(2-4137823-s-34689)
+root     4138048  0.0  0.0  18368  3540 ?        S    12:52   0:00 git cat-file --batch-check
+root     4138289  0.0  0.0   5900  2776 pts/0    R+   13:05   0:00 ps axu

@@ -1,0 +1,7 @@
+imageio
+matplotlib
+numpy
+pandas
+scikit-image
+scikit-learn
+pytorch

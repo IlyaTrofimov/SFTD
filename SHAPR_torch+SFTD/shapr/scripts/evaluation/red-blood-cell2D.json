@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "../dataset_for_3D_reconstruction/obj"
+  },
+  "targets": [
+    {
+    "label": "Without $\\mathcal{L}_\\mathrm{T}$",
+    "path" : "../results/red-blood-cell2D/"
+    }
+  ],
+  "output": "/tmp/trofim_test.svg"
+}
